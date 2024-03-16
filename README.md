@@ -1,4 +1,4 @@
 ## Java Assignment
-## Name - Pratik Sahiani
+## Name - Pratik Sahani
 ## Enrollment no - A35404821006
 
